@@ -22,7 +22,7 @@
 
 ---
 
-⭐ **Curiosidade:** Me divirto muito assistindo animes e jogando LoL!  
+⭐ **Curiosidade:** Me divirto muito assistindo animes e jogando LoL! 🤓  
 📌 **Meta atual:** Aprendendo C#.  
 
 <!--
