@@ -22,9 +22,6 @@
 
 ---
 
-⭐ **Curiosidade:** Me divirto muito assistindo animes e jogando LoL! 🤓  
-📌 **Meta atual:** Aprendendo C#.  
-
 <!--
 *italico* ou _italico_
 **negrito** ou __negrito__
@@ -46,6 +43,9 @@ ___negrito e italico___
 #### Título 4
 ##### Título 5
 ###### Título 6
+
+⭐ **Curiosidade:** Me divirto muito assistindo animes e jogando LoL! 🤓  
+📌 **Meta atual:** Aprendendo C#.  
 
 
 ## 📊 **Estatísticas do GitHub**  
