@@ -1,15 +1,14 @@
-
 <h1 align="center"> 
   ✨ Olá, me chamo Alice! ✨
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B97&center=true&vCenter=true&width=435&lines=Desenvolvedora+Back+End;Apaixonadoa+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9932CC&center=true&vCenter=true&width=435&lines=Desenvolvedora+Back+End;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  
- ![Snake animation](https://raw.githubusercontent.com/alicesfer/alicesfer/output/snake.svg)
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFoOTV6Y3B6eGZ1Y2VtY2J6Z2N4Y3R0bWl6dGJtYzN4eGZ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="400">
+</p>
   
   ## 🛠️ Minhas Habilidades
   
