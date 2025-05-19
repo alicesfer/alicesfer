@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFoOTV6Y3B6eGZ1Y2VtY2J6Z2N4Y3R0bWl6dGJtYzN4eGZ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="400">
 </p>
   
-## 🌱 Dominando Minha Stack
+## 🐀 Atualmente aprendendo sobre
 
 <p align="center">
   <!-- Ícones -->
@@ -21,11 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Basic"/>
 </p>
 
-  ##  📫 Como me encontrar
+  ##  📩
   
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandesalicesilveira@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicesfer/)
-
 
 <div align="right">
   <img src="https://media.tenor.com/wiMyvo8ZFN0AAAAi/pinguim-penguin.gif" width="100" title="Pinguim dançando">
@@ -56,5 +55,3 @@
 ### 🧰 Ferramentas & Plataformas  
 | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) |  
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|  
-
-
