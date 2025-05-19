@@ -1,3 +1,48 @@
+
+<h1 align="center"> 
+  ✨ Olá, me chamo Alice! ✨
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B97&center=true&vCenter=true&width=435&lines=Desenvolvedora+Back+End;Apaixonadoa+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  
+ ![Snake animation](https://raw.githubusercontent.com/alicesfer/alicesfer/output/snake.svg)
+  
+  ## 🛠️ Minhas Habilidades
+  
+  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+  ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-512BD4?style=flat-square&logo=.net&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+   
+  ## 📫 Como me encontrar
+  
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandesalicesilveira@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicesfer/)
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alicesfer.alicesfer)
+</div>
+
+<!--
+*italico* ou _italico_
+**negrito** ou __negrito__
+___negrito e italico___
+
+-Lista 1
+- Lista 2
+  - Sublista 1
+
+   ## 📊 Estatísticas
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[alicesfer]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[alicesfer]&layout=compact&langs_count=7&theme=dracula"/>
+
+[Texto da Imagem](link da imagem) -- para clicar no link da img
+![Texto da imagem](link da imagem) -- aparece direto no perfil
+
 # 😼 Olá, me chamo Alice! ✨
 
 🚀 **Desenvolvedora | Apaixonada pelo universo Tech 💫**  
@@ -14,20 +59,6 @@
 ### 🧰 Ferramentas & Plataformas  
 | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) |  
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|  
-
----
-
-<!--
-*italico* ou _italico_
-**negrito** ou __negrito__
-___negrito e italico___
-
--Lista 1
-- Lista 2
-  - Sublista 1
-
-[Texto da Imagem](link da imagem) -- para clicar no link da img
-![Texto da imagem](link da imagem) -- aparece direto no perfil
 
 `system.out.println();`
 
