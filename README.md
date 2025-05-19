@@ -24,7 +24,6 @@
   ##  📩
   
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandesalicesilveira@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicesfer/)
 
 <div align="right">
   <img src="https://media.tenor.com/wiMyvo8ZFN0AAAAi/pinguim-penguin.gif" width="100" title="Pinguim dançando">
