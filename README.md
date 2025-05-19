@@ -21,10 +21,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Basic"/>
 </p>
 
+## 📩 Converse comigo!
+[![Gmail](https://img.shields.io/badge/Gmail-9932CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandesalicesilveira@gmail.com)
+
 <div align="right">
   <img src="https://media.tenor.com/wiMyvo8ZFN0AAAAi/pinguim-penguin.gif" width="100" title="Pinguim dançando">
 </div>
-  
+
 </div>
 
 <!--
